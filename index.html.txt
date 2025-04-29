@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sports Zone</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>🏅 Welcome to Sports Zone</h1>
+    <nav>
+      <ul>
+        <li><a href="#football">Football</a></li>
+        <li><a href="#basketball">Basketball</a></li>
+        <li><a href="#tennis">Tennis</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="football">
+      <h2>⚽ Football</h2>
+      <p>Football (or soccer) is the world's most popular sport. It is played in almost every country with passion and pride.</p>
+    </section>
+
+    <section id="basketball">
+      <h2>🏀 Basketball</h2>
+      <p>Basketball is fast, exciting, and filled with highlight moments. From NBA legends to backyard games, it's a fan favorite.</p>
+    </section>
+
+    <section id="tennis">
+      <h2>🎾 Tennis</h2>
+      <p>Tennis combines agility, power, and strategy. Grand Slams like Wimbledon and the US Open attract millions of viewers.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Sports Zone | Contact: sportszone@email.com</p>
+  </footer>
+</body>
+</html>
